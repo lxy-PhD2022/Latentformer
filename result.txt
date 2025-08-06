@@ -1,6 +1,0 @@
-96_96_Latentformer_TST_custom_ftM_sl96_ll18_pl96_dm16_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
-mse:0.13546456396579742, mae:0.23680153489112854, rse:0.3678559362888336
-
-96_192_Latentformer_TST_custom_ftM_sl96_ll18_pl192_dm16_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
-mse:0.16343213617801666, mae:0.25798287987709045, rse:0.40283122658729553
-
