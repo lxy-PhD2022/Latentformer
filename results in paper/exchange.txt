@@ -1,0 +1,13 @@
+
+96_96_Latentfomer_TST_custom_ftM_sl96_ll18_pl96_dm12_nh1_el1_dl1_df24_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0802287682890892, mae:0.1982712298631668, rse:0.2157307267189026
+
+96_192_Latentfomer_TST_custom_ftM_sl96_ll18_pl192_dm14_nh1_el1_dl1_df4_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16697543859481812, mae:0.2914421558380127, rse:0.3149457275867462
+
+96_336_Latentfomer_TST_custom_ftM_sl96_ll18_pl336_dm8_nh1_el1_dl1_df2_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.31126904487609863, mae:0.4015491008758545, rse:0.43450668454170227
+
+96_720_Latentfomer_TST_custom_ftM_sl96_ll18_pl720_dm2_nh1_el1_dl1_df24_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.8054217100143433, mae:0.6750523447990417, rse:0.7063443064689636
+

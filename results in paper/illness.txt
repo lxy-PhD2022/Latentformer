@@ -1,0 +1,12 @@
+
+36_24_Latentfomer_custom_ftM_sl36_ll18_pl24_dm4_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1.222039818763733, mae:0.6965482831001282, rse:0.530842661857605
+
+36_36_Latentfomer_custom_ftM_sl36_ll18_pl36_dm4_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1.4167282581329346, mae:0.7523024082183838, rse:0.5708595514297485
+
+36_48_Latentfomer_custom_ftM_sl36_ll18_pl48_dm4_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1.8502788543701172, mae:0.8244149088859558, rse:0.6506876945495605
+
+36_60_Latentfomer_custom_ftM_sl36_ll18_pl60_dm4_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1.274253487586975, mae:0.7388039231300354, rse:0.5895824432373047

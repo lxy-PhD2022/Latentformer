@@ -1,0 +1,48 @@
+
+96_96_Latentfomer_ftM_sl96_ll18_pl96_dm16_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3666835129261017, mae:0.3916298449039459, rse:0.5845035314559937
+
+96_192_Latentfomer_ftM_sl96_ll18_pl192_dm16_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.41421881318092346, mae:0.4160579741001129, rse:0.6182660460472107
+
+96_336_Latentfomer_ftM_sl96_ll18_pl336_dm16_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.44702428579330444, mae:0.43665510416030884, rse:0.6403951644897461
+
+96_720_Latentfomer_ftM_sl96_ll18_pl720_dm16_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.467599093914032, mae:0.4678365886211395, rse:0.6589174270629883
+
+96_96_Latentfomer_ftM_sl96_ll18_pl96_dm16_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.25496819615364075, mae:0.3210779130458832, rse:0.4060858190059662
+
+96_192_Latentfomer_ftM_sl96_ll18_pl192_dm16_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3427813947200775, mae:0.3836560547351837, rse:0.4702467620372772
+
+96_336_Latentfomer_ftM_sl96_ll18_pl336_dm16_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.41663557291030884, mae:0.43672752380371094, rse:0.515901505947113
+
+96_720_Latentfomer_ftM_sl96_ll18_pl720_dm16_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.42549169063568115, mae:0.4490664303302765, rse:0.5261083245277405
+
+96_96_Latentfomer_ftM_sl96_ll18_pl96_dm16_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.31556785106658936, mae:0.3609365224838257, rse:0.533559262752533
+
+96_192_Latentfomer_ftM_sl96_ll18_pl192_dm16_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3554242253303528, mae:0.38153600692749023, rse:0.5667718052864075
+
+96_336_Latentfomer_ftM_sl96_ll18_pl336_dm16_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3886304497718811, mae:0.4003889560699463, rse:0.5929354429244995
+
+96_720_Latentfomer_ftM_sl96_ll18_pl720_dm16_nh1_el1_dl1_df16_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.44977378845214844, mae:0.4382982850074768, rse:0.6381618976593018
+
+96_96_Latentfomer_ftM_sl96_ll18_pl96_dm128_nh1_el1_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17221079766750336, mae:0.25264617800712585, rse:0.336183100938797
+
+96_192_Latentfomer_ftM_sl96_ll18_pl192_dm128_nh1_el1_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2367517203092575, mae:0.29455769062042236, rse:0.3932376503944397
+
+96_336_Latentfomer_ftM_sl96_ll18_pl336_dm128_nh1_el1_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.29364538192749023, mae:0.3326892852783203, rse:0.43719542026519775
+
+96_720_Latentfomer_ftM_sl96_ll18_pl720_dm128_nh1_el1_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.389887273311615, mae:0.3881552815437317, rse:0.5013251900672913
